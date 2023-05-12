@@ -1,5 +1,5 @@
 # ISPA-PROJECT
-Inferential Project 
+Inferential Statistics Project 
 
 
 Toipc - Loan Eligibility Prediction
