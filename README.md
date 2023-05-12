@@ -1,5 +1,5 @@
-# CSA-PROJECT
-Cognitive Science Project 
+# ISPA-PROJECT
+Inferential Project 
 
 
 Toipc - Loan Eligibility Prediction
